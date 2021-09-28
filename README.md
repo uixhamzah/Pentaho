@@ -1,2 +1,3 @@
 # Pentaho
-![Result]( {https://github.com/HamzahDev/Pentaho/blob/main/Result.png} )
+
+https://raw.githubusercontent.com/HamzahDev/Pentaho/main/Result.png
